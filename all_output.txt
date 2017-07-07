@@ -1,0 +1,243 @@
+<முப்பது>:
+அது < Genitive Case & 506 > 
+<அது>
+ count=3
+<unknown>
+
+<>:
+<Error>
+
+<முப்பது>:
+அது < Genitive Case & 506 > 
+<அது>
+ count=3
+<unknown>
+
+<>:
+<Error>
+
+<முப்பது>:
+முப்பது < charNumbers & 98 >  count=0
+
+<முப்பது>:
+முப்பது < charNumbers & 98 >  count=0
+
+<நாற்பது>:
+நாற்பது < charNumbers & 98 >  count=0
+
+<நாற்பது>:
+நாற்பது < charNumbers & 98 >  count=0
+
+<நாற்பதுஐந்து>:
+ந்த் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ந்த்+உ>
+நாற்பது < charNumbers & 98 > ஐந்து < charNumbers & 98 > 
+<நாற்பது+ஐந்து>
+ count=2
+<நாற்பதுஐந்து>:
+ந்த் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ந்த்+உ>
+நாற்பது < charNumbers & 98 > ஐந்து < charNumbers & 98 > 
+<நாற்பது+ஐந்து>
+ count=2
+<முப்பது>:
+முப்பது < charNumbers & 98 >  count=0
+
+<முப்பது>:
+முப்பது < charNumbers & 98 >  count=0
+
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பதின்மூன்று>:
+ற் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ற்+உ>
+ count=3
+<unknown>
+
+<>:
+<Error>
+
+<பத்துமூன்று>:
+ற் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ற்+உ>
+பத்து < charNumbers & 98 > மூன்று < charNumbers & 98 > 
+<பத்து+மூன்று>
+ count=2
+<பத்துமூன்று>:
+ற் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ற்+உ>
+பத்து < charNumbers & 98 > மூன்று < charNumbers & 98 > 
+<பத்து+மூன்று>
+ count=2
+<பத்துமூன்று>:
+ற் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ற்+உ>
+பத்து < charNumbers & 98 > மூன்று < charNumbers & 98 > 
+<பத்து+மூன்று>
+ count=2
+<பத்துமூன்று>:
+ற் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ற்+உ>
+பத்து < charNumbers & 98 > மூன்று < charNumbers & 98 > 
+<பத்து+மூன்று>
+ count=2
+<பத்துமூன்று>:
+ற் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ற்+உ>
+பத்து < charNumbers & 98 > மூன்று < charNumbers & 98 > 
+<பத்து+மூன்று>
+ count=2
+<நாற்பதுஐந்து>:
+ந்த் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ந்த்+உ>
+நாற்பது < charNumbers & 98 > ஐந்து < charNumbers & 98 > 
+<நாற்பது+ஐந்து>
+ count=2
+<நாற்பதுஐந்து>:
+ந்த் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ந்த்+உ>
+நாற்பது < charNumbers & 98 > ஐந்து < charNumbers & 98 > 
+<நாற்பது+ஐந்து>
+ count=2
+<தொண்ணூற்று ஒன்பது>:
+அது < Genitive Case & 506 > 
+<அது>
+ count=3
+<unknown>
+
+<>:
+<Error>
+
+<தொண்ணூற்று ஒன்பது>:
+அது < Genitive Case & 506 > 
+<அது>
+ count=3
+<unknown>
+
+<>:
+<Error>
+
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
+<பத்துஇரண்டு>:
+ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
+<ட்+உ>
+பத்து < charNumbers & 98 > இரண்டு < charNumbers & 98 > 
+<பத்து+இரண்டு>
+ count=2
