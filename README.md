@@ -7,9 +7,10 @@ Download the file and extract it in to folder named Conversion. The folder can b
 
 Main file: Number_Frame.java in the default package. When run opens a frame where the input can be given and output can be verified.
 
-Input: Tamil Numerical word for anlaysis.
+Input: Tamil Numerical word for anlaysis. Given in the text field near the Word_Number label.
 
-Output: Analysed output and the converted number.
+Output: Analysed output and the converted number. Shown in the Text area below.
+
 
 Interface: Has buttons Analyse and Number. When the Analyse button is clicked it shows the analysed output of the input word and when the Number button is clicked it shows the converted Number if the word is a proper tamil numerical word.
 
@@ -38,4 +39,4 @@ Output (Analused Output):
 
 Output (Converted number): 
 
-(If the word cannot be analysed there will be no output.)
+(If the word cannot be analysed there will be no output. This implies the word is not a proper tamil word or is a colloquial word. Likewise you can check whether the entered word is a proper tamil numerical word or not.)
