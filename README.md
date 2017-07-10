@@ -9,7 +9,11 @@ Main file: Number_Frame.java in the default package. When run opens a frame wher
 
 Input: Tamil Numerical word for anlaysis. Given in the text field near the Word_Number label.
 
-Output: Analysed output and the converted number. Shown in the Text area below.
+Output: Analysed output and the converted number. 
+
+Analysed Output - Shown in the Text area below.
+
+Converted Number - shown in the Text field below when the Number button is clicked.
 
 
 Interface: Has buttons Analyse and Number. When the Analyse button is clicked it shows the analysed output of the input word and when the Number button is clicked it shows the converted Number if the word is a proper tamil numerical word.
