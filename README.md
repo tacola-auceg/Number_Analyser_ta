@@ -1,12 +1,16 @@
 # Number_Analyser_ta
 Tamil numerical word analyser and word to numeric converter
+
 How to run and test the code:
 
 Download the file and extract it in to folder named Conversion. The folder can be opened as a project using Netbeans.
 
 Main file: Number_Frame.java in the default package. When run opens a frame where the input can be given and output can be verified.
+
 Input: Tamil Numerical word for anlaysis.
+
 Output: Analysed output and the converted number.
+
 Interface: Has buttons Analyse and Number. When the Analyse button is clicked it shows the analysed output of the input word and when the Number button is clicked it shows the converted Number if the word is a proper tamil numerical word.
 
 Example: 
