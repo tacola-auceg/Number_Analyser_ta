@@ -11,6 +11,7 @@ Interface: Has buttons Analyse and Number. When the Analyse button is clicked it
 
 Example: 
 Input : பன்னிரண்டு
+
 Output (Analused Output): <பன்னிரண்டு>:
 	ட் < Past Tense Marker & 800 > உ < Verbal Participle Suffix & 900 > 
 	<ட்+உ>
@@ -28,5 +29,7 @@ Output (Converted number): 12
 
 Input : பன்னிரெண்டு
 Output (Analused Output): 
+
 Output (Converted number): 
+
 (If the word cannot be analysed there will be no output.)
